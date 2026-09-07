@@ -4,4 +4,5 @@ Commission for _@newspaperdaily_.
 
 NeoForge 1.21.1
 
-[![Watch demo](https://raw.githubusercontent.com/jeremyseq/ImpactScreens/master/images/thumbnail.jpg)](https://raw.githubusercontent.com/jeremyseq/ImpactScreens/master/images/video.mp4)
+Click to watch demo.
+[![Watch demo](/images/thumbnail.jpg)](https://youtu.be/e1w9e_KTlmg)
