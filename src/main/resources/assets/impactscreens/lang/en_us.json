@@ -1,0 +1,13 @@
+{
+  "itemGroup.impactscreens": "Example Mod Tab",
+  "block.impactscreens.example_block": "Example Block",
+  "item.impactscreens.example_item": "Example Item",
+
+  "impactscreens.configuration.title": "impactscreens Configs",
+  "impactscreens.configuration.section.impactscreens.common.toml": "impactscreens Configs",
+  "impactscreens.configuration.section.impactscreens.common.toml.title": "impactscreens Configs",
+  "impactscreens.configuration.items": "Item List",
+  "impactscreens.configuration.logDirtBlock": "Log Dirt Block",
+  "impactscreens.configuration.magicNumberIntroduction": "Magic Number Text",
+  "impactscreens.configuration.magicNumber": "Magic Number"
+}

@@ -1,0 +1,29 @@
+{
+  "build_up": {
+    "subtitle": "subtitle.impactscreens.build_up",
+    "sounds": [
+      {
+        "name": "impactscreens:build_up",
+        "stream": false
+      }
+    ]
+  },
+  "typing": {
+    "subtitle": "subtitle.impactscreens.typing",
+    "sounds": [
+      {
+        "name": "impactscreens:typing",
+        "stream": true
+      }
+    ]
+  },
+  "war_cry": {
+    "subtitle": "subtitle.impactscreens.war_cry",
+    "sounds": [
+      {
+        "name": "impactscreens:war_cry",
+        "stream": false
+      }
+    ]
+  }
+}
